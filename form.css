@@ -1,0 +1,13 @@
+.container{
+    padding: 0px 20%;
+}
+body{
+padding-top: 50px;
+}
+.btn{
+    display: block;
+}
+span{
+    display: block;
+    color: red;
+}
