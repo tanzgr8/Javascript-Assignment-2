@@ -23,6 +23,7 @@ function validateName(name) {
   }
   return true;
 }
+
 function valemail(email) {
   var email = document.getElementById("email");
   var mailformat =
